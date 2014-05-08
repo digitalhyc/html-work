@@ -1,0 +1,57 @@
+body {
+	font-family: "微软雅黑",sans-serif;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.banner {
+	width: 960px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 10px;
+	border-style: none none solid none;
+	border-width: 5px;
+	border-color: #FFFFF0; 
+}
+
+.banner img {
+	width: 80px;
+	height: 80px;
+}
+
+.banner_word {
+	color: #FFFFF0;
+	float: left;
+	height: 80px;
+}
+
+.banner_word_cn {
+	font-size: 40;
+	height: 50px;
+}
+
+.banner_word_en {
+	font-size: 25;
+	height: 30px;
+}
+
+
+.abstract {
+	color: #FFFFF0;
+	font-size: 20;
+	padding-bottom: 10px;
+	border-style: none none solid none;
+	border-width: 5px;
+	border-color: #FFFFF0; 
+}
+
+.pic_flow {
+	height: 150px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border-style: none none solid none;
+	border-width: 5px;
+	border-color: #FFFFF0; 
+}
